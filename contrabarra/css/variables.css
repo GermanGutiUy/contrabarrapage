@@ -1,0 +1,13 @@
+:root {
+    --c-primary: #04ADBF;
+    --c-yellow: #F2CB57;
+    --c-orange: #F2884B;
+    --c-coral: #F27B50;
+    --c-dark: #0D0D0D;
+    --c-light: #F4F1EA;
+    --c-wa: #25D366;
+    --f-head: 'Fraunces', Georgia, serif;
+    --f-body: 'Inter', system-ui, sans-serif;
+    --r: 18px;
+    --t: .3s ease;
+}
